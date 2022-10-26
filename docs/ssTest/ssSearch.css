@@ -95,6 +95,8 @@ div#ssResults{
 /* Leaving a bit of space above when scrolling to results. */
   padding-top: 1rem;
   margin-top: -1rem;
+  color: #333;
+  background-color: #FABD4B;
 }
 div#ssResults>ul>li{
     display: flex;
