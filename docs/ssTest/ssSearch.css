@@ -259,7 +259,7 @@ div#ssSearching{
 
 body.ssSearching:not(.ssLoading) div#ssSearching, body.ssLoading:not(.ssSearching) div#ssSplashMessage, noscript{
     background-color: #000000;
-    color: #ffffff;
+    color: #111;
     font-size: 1.5rem;
     padding: 1rem;
     border-radius: 0.25rem 0.25rem;
