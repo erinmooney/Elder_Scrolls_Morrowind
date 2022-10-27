@@ -214,7 +214,7 @@ div.ssFeatFilters>fieldset.ssFieldset>menu>div.select{
     padding: 0.25em;
 }
 div.ssFeatFilters>fieldset.ssFieldset>menu>div.select:hover, div.ssFeatFilters>fieldset.ssFieldset>menu>div.select:focus{
-    background-color: lightgray;
+    background-color: #E39439;
 }
 /* Only display the menu when the focus is within the fieldset. */
 div.ssFeatFilters>fieldset.ssFieldset:focus-within>menu{
